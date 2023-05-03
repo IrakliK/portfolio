@@ -1,7 +1,6 @@
 import Footer from "@/lib/components/Footer";
 import HeaderName from "@/lib/components/HeaderName";
 import ResourceLink from "@/lib/components/ResourceLink";
-import Image from "next/image";
 
 export default function Home() {
   return (
