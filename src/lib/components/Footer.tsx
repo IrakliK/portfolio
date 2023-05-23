@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <div className="bg-[#1D1C4E] flex justify-center py-2 text-xs">
+    <div className="flex justify-center py-2 text-xs m-0 text-gray-600">
       <p>
         &copy; {new Date().getFullYear()} Irakli Khizanishvili. All rights
         reserved.
