@@ -17,7 +17,7 @@ const Resources = [
   },
   {
     name: "RESUME",
-    link: "https://resume.io/r/8U06dz4yt",
+    link: "https://rxresu.me/iraklik/irakli-software-engineer",
     icon: (
       <SlEnvolopeLetter
         size={50}
